@@ -13,7 +13,7 @@ The API uses keys to allow access to the API. You can register a free API key at
 # Endpoints &amp; Examples:
 (All links can be copied to your browser for testing, simply replace "YOUR-APIKEY", with your personal key)
 
-## postal code to location information
+### postal code to location information
 This endpoint allows you to receive information for one or multiple given postal codes.
 
 https://app.zipcodebase.com/api/v1/search?apikey=YOUR-APIKEY&codes=10005%2C51503
