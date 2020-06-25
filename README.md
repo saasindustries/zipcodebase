@@ -1,10 +1,10 @@
 # About zipcodebase
-Zipcodebase was founded in 2019 to solve common issues with location data. As we have launched geocodeapi.io, a general geocoding API for forward and reverse geocoding, we learned from our customers, that that there was a specific need for zip code data. Our customers were basically looking for a simple solution to do tasks: 
+Zipcodebase was founded in 2019 to solve common issues with postal code data. As we have launched geocodeapi.io, a general geocoding API for forward and reverse geocoding, we learned from our customers, that that there was a specific need for zip code data. Our customers were basically looking for a simple solution to do tasks: 
 
-calculate the distance between zip codes
-find zip codes around a given zip code
-find a major location behind a zip code
-match together a list of zip codes by their distance to each other
+* calculate the distance between zip codes
+* find zip codes around a given zip code
+* find a major location behind a zip code
+* match together a list of zip codes by their distance to each other
 
 This was the moment we decixded to launch zipcodebase.com, a feature-complete zip code API. 
 
