@@ -8,7 +8,7 @@ Zipcodebase was founded in 2019 to solve common issues with postal code data. As
 
 This was the moment we decixded to launch zipcodebase.com, a feature-complete zip code API. 
 
-The API uses keys to allow access to the API. You can register a free API key at our developer portal: https://app.zipcodebase.com/register?plan=free. This will allow you to conduct 10 000 free searches per month. 
+The API uses keys to allow access to the API. You can register a free API key at our [developer portal](https://app.zipcodebase.com/register?plan=free). This will allow you to conduct 10,000 free searches per month. 
 
 # Endpoints &amp; Examples:
 (All links can be copied to your browser for testing, simply replace "YOUR-APIKEY", with your personal key)
