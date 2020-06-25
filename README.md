@@ -10,7 +10,7 @@ This was the moment we decixded to launch zipcodebase.com, a feature-complete zi
 
 The API uses keys to allow access to the API. You can register a free API key at our [developer portal](https://app.zipcodebase.com/register?plan=free). This will allow you to conduct 10,000 free searches per month. 
 
-# Endpoints &amp; Examples:
+# Endpoints &amp; Examples
 (All links can be copied to your browser for testing, simply replace "YOUR-APIKEY", with your personal key)
 
 ### postal code to location information
