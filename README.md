@@ -11,6 +11,7 @@ This was the moment we decixded to launch zipcodebase.com, a feature-complete zi
 The API uses keys to allow access to the API. You can register a free API key at our [developer portal](https://app.zipcodebase.com/register?plan=free). This will allow you to conduct 10,000 free searches per month. 
 
 To provide you with the best developer experience possible, we also created a Postman collection covering all of our endpoints.
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/e246ef619b9cb7c147d1)
 
 # Endpoints &amp; Examples
