@@ -6,7 +6,7 @@ Zipcodebase is a zip code API that was founded in 2019 to solve common issues wi
 * find a major location behind a zip code
 * match together a list of zip codes by their distance to each other
 
-This was the moment we decixded to launch zipcodebase.com, a feature-complete zip code API. 
+This was the moment we decided to launch zipcodebase.com, a feature-complete zip code API. 
 
 The API uses keys to allow access to the API. You can register a free API key at our [developer portal](https://app.zipcodebase.com/register?plan=free). This will allow you to conduct 10,000 free searches per month. 
 
